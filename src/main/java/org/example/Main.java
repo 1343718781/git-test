@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello hot-fix!");
         System.out.println("Hello github!");
         System.out.println("Hello github2!");
+        System.out.println("Hello gitee!");
     }
 }
